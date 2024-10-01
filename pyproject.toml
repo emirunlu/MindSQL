@@ -15,23 +15,6 @@ classifiers = [
 ]
 
 
-[tool.poetry.dependencies]
-python
-chromadb
-pandas
-plotly
-mysql-connector-python
-google-generativeai
-llama-cpp-python
-openai
-sqlparse
-numpy
-sentence-transformers
-psycopg2-binary
-faiss-cpu
-transformers
-
-
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
